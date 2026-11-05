@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-product-and-service-items-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-product-and-service-items",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-product-and-service-items-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/product-and-service-items.md",
+  "presentationPlan": "projects/accounting/nuxt/product-and-service-items.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
